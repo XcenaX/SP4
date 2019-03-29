@@ -1,0 +1,11 @@
+C:\Users\Lebedev'ml\source\repos\ListView Processes\ListView Processes\bin\Debug\ListView Processes.exe.config
+C:\Users\Lebedev'ml\source\repos\ListView Processes\ListView Processes\bin\Debug\ListView Processes.exe
+C:\Users\Lebedev'ml\source\repos\ListView Processes\ListView Processes\bin\Debug\ListView Processes.pdb
+C:\Users\Lebedev'ml\source\repos\ListView Processes\ListView Processes\obj\Debug\ListView Processes.csprojAssemblyReference.cache
+C:\Users\Lebedev'ml\source\repos\ListView Processes\ListView Processes\obj\Debug\ListView_Processes.Form1.resources
+C:\Users\Lebedev'ml\source\repos\ListView Processes\ListView Processes\obj\Debug\ListView_Processes.Properties.Resources.resources
+C:\Users\Lebedev'ml\source\repos\ListView Processes\ListView Processes\obj\Debug\ListView Processes.csproj.GenerateResource.cache
+C:\Users\Lebedev'ml\source\repos\ListView Processes\ListView Processes\obj\Debug\ListView Processes.csproj.CoreCompileInputs.cache
+C:\Users\Lebedev'ml\source\repos\ListView Processes\ListView Processes\obj\Debug\ListView Processes.exe
+C:\Users\Lebedev'ml\source\repos\ListView Processes\ListView Processes\obj\Debug\ListView Processes.pdb
+C:\Users\Lebedev'ml\source\repos\ListView Processes\ListView Processes\obj\Debug\ListView_Processes.TimeTrigger.resources
